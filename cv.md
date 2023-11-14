@@ -22,3 +22,10 @@ function reverseWords(str){
   return str.split(' ').reverse().join(' ');
 }
 ```
+
+### Education
+* University: Brest State Technical University
+
+### Language
+* Russian - native
+* English - A1
