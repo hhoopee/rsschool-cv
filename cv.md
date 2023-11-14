@@ -14,3 +14,11 @@ Hello, I'm a system administrator. I enrolled in this course becaouse I want to 
 * CSS
 * JavaScript
 * Figma
+
+### Code example
+**Reversed Words**
+```
+function reverseWords(str){
+  return str.split(' ').reverse().join(' ');
+}
+```
