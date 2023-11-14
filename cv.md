@@ -8,3 +8,9 @@
 
 ### About me
 Hello, I'm a system administrator. I enrolled in this course becaouse I want to change my occupation to Frentend developer.
+
+### Skills
+* HTML
+* CSS
+* JavaScript
+* Figma
