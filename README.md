@@ -1,1 +1,1 @@
-# rsschool-cv
+https://hhoopee.github.io/rsschool-cv/cv
